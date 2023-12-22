@@ -16,4 +16,4 @@ Parallelism is simultaneous execution of processes on a multiple cores per CPU o
 Asynchronous programming is a technique that enables your program to start a potentially long-running task and still be able to be responsive to other events while that task runs, rather than having to wait until that task has finished.
 
 ### what is asyncio 
-According to Python Docs, “Asyncio is a library to write concurrent code using the async/await syntax.”
+According to Python Docs, “Asyncio is a library to write concurrent code using the async/await syntax using one thread.”
